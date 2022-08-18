@@ -5,7 +5,8 @@ attention for meticulous liver vessel.
 The function of the shallow down-scaling module is to enlarge the receptive field and
 suppresses intensive pixel-level noise. The deep up-scaling
 module is a super-resolution architecture aiming at zooming in vessel details, and the attention module is to capture
-structural connections.
+structural connections. To validate the effectiveness of the proposed model,
+we performed experiments on two public datasets, i.e., 3D-IRCADb and MSD.
 
 # Usage
 
