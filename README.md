@@ -1,11 +1,9 @@
 # vesselSeg
 
-This study present an imbalanced bidirectional-scaling enhanced
-attention for meticulous liver vessel.
-The function of the shallow down-scaling module is to enlarge the receptive field and
-suppresses intensive pixel-level noise. The deep up-scaling
-module is a super-resolution architecture aiming at zooming in vessel details, and the attention module is to capture
-structural connections. And, we validate the effectiveness of the proposed model on two public datasets, i.e., 3D-IRCADb and MSD.
+This study presents an imbalanced bidirectional-scaling enhanced attention model for liver vessel segmentation, 
+of which the shallow down-scaling module enlarges the receptive field and suppresses intensive pixel-level noise, 
+the deep up-scaling module is a super-resolution architecture aiming at zooming in vessel details, 
+and the attention module is to capture structural connections. 
 
 # Usage
 
